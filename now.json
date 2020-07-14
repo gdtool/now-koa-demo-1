@@ -1,4 +1,5 @@
 {
+  "alias": "rsshub.vercel.app",
   "name": "koa-demo",
   "version": 2,
   "builds": [
