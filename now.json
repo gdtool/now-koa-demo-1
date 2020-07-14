@@ -1,6 +1,6 @@
 {
-  "alias": "rsshub.vercel.app",
-  "name": "koa-demo",
+  "alias": "china.vercel.app",
+  "name": "china",
   "version": 2,
   "builds": [
     {
